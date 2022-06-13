@@ -13,4 +13,4 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a PhD candidate at the Center for Operations Research and Econometrics (CORE), UCLouvain, under the supervision of [Anthony Papavasiliou](https://ap-rg.eu/). My interests include include operations research, optimization under uncertainty, electricity market design, renewable energy integration in power systems, and stochastic programming.
+I am a PhD candidate at the Center for Operations Research and Econometrics (CORE), UCLouvain, under the supervision of [Anthony Papavasiliou](https://ap-rg.eu/). My interests include operations research, optimization under uncertainty, electricity market design, renewable energy integration in power systems, and stochastic programming.
