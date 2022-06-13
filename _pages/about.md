@@ -7,7 +7,7 @@ subtitle: PhD student at CORE, UC Louvain.
 profile:
   align: right
   image: prof_pic.jpg
-  address: E-mail: jehum.cho@uclouvain.be
+  address: E-mail jehum.cho@uclouvain.be
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
