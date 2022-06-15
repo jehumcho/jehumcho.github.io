@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at CORE, UC Louvain.
+subtitle: PhD candidate at CORE, UC Louvain.
 
 profile:
   align: right
